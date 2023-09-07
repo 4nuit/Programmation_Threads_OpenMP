@@ -1,0 +1,2 @@
+- Rename 'inspector' => 'pass'
+- Add dependency relations between passes

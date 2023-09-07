@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADDEND	random.c	/^static long ADDEND      = 150889;$/;"	v	file:
+MULTIPLIER	random.c	/^static long MULTIPLIER  = 1366;$/;"	v	file:
+PMOD	random.c	/^static long PMOD        = 714025;$/;"	v	file:
+count	main.c	/^  double count;$/;"	v
+dfill	dfill.c	/^  dfill(int n, double val, double a[], int ia){$/;"	f
+domove	domove.c	/^  domove(int n3, double x[], double vh[], double f[], double side){$/;"	f
+dscal	dscal.c	/^  dscal(int n,double sa,double sx[], int incx){$/;"	f
+epot	main.c	/^  double epot;$/;"	v
+fcc	fcc.c	/^  fcc(double x[], int npart, int mm, double a){$/;"	f
+forces	forces.c	/^  forces(int npart, double x[], double f[], double side, double rcoff){$/;"	f
+main	main.c	/^int main(){$/;"	f
+mkekin	mkekin.c	/^  mkekin(int npart, double f[], double vh[], double hsq2, double hsq){$/;"	f
+mm	main.c	11;"	d	file:
+mm	main.c	7;"	d	file:
+mm	main.c	9;"	d	file:
+mxwell	mxwell.c	/^  mxwell(double vh[], int n3, double h, double tref){$/;"	f
+npart	main.c	21;"	d	file:
+prnout	prnout.c	/^  prnout(int move, double ekin, double epot, double tscale, double vir,$/;"	f
+random	random.c	/^double random()$/;"	f
+random_hi	random.c	/^double random_low, random_hi;$/;"	v
+random_last	random.c	/^long random_last = 0.0;$/;"	v
+random_low	random.c	/^double random_low, random_hi;$/;"	v
+secnds	main.c	/^double secnds()$/;"	f
+seed	random.c	/^void seed(double low_in, double hi_in)$/;"	f
+starttime	main.c	/^time_t starttime = 0; $/;"	v
+velavg	velavg.c	/^  velavg(int npart, double vh[], double vaver, double h){$/;"	f
+vir	main.c	/^  double vir;$/;"	v
